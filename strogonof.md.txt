@@ -1,0 +1,7 @@
+#Strogonoff de Frango
+**Negrito**
+_italico_
+:chicken emoticon
+###fonte tamanho menor
+ - cria uma lista com marcador
+
